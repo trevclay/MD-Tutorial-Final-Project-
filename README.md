@@ -13,7 +13,7 @@
 5. [CPU](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/d1255be7e0923e1f6a51a3f732cbd13e53f3d857/CPU.md)
 6. [BIOS](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/111c704ce4677b1d1bccbabc0f76d54b9840ec3d/BIOS.md)
 7. [PCIE](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/bbe04ea453c73467c585fd50b2cee340b539df84/PCIE.md)
-8. [Video Card] (link to MD page)
+8. [Video Card](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/dc8af0df36279128832bd7e366ab22fad0ae2825/Video%20Card.md)
 9. [Sound Card] (link to MD page)
 10. [Network Interface Card (NIC)] (link to MD page)
 11. [Power Supply] (link to MD page)
