@@ -10,7 +10,7 @@
 2. [RAM] (link to MD page)
 3. [Motherboard] (link to MD page)
 4. [Chipset] (link to MD page)
-5. [CPU] (https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/67c76dfdf76cf01421f7d448e6dab8d6ca7e1bbb/CPU.md)
+5. [CPU](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/d1255be7e0923e1f6a51a3f732cbd13e53f3d857/CPU.md)
 6. [AUTOTITLE] ([BIOS.md](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/111c704ce4677b1d1bccbabc0f76d54b9840ec3d/BIOS.md))
 7. [PCIE] (link to MD page)
 8. [Video Card] (link to MD page)
