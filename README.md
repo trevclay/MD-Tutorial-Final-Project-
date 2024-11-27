@@ -1,7 +1,7 @@
 # MD-Tutorial-Final-Project-
 ## Computer Hardware Tutorial
-### Authored by Trevor Clay
-#### The purpose of this tutorial is to teach the reader/viewer the basic hardware componenets of a computer and what purpose and functionality each component has. There will be a page for each major component.
+#### Authored by Trevor Clay
+###### The purpose of this tutorial is to teach the reader/viewer the basic hardware componenets of a computer and what purpose and functionality each component has. There will be a page for each major component.
 
 <img width="240" alt="Screenshot 2024-11-26 at 5 53 57 PM" src="https://github.com/user-attachments/assets/92add861-9edc-4c3c-be8c-9550da77980c">
 
