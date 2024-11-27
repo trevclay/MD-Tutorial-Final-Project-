@@ -11,7 +11,7 @@
 3. [Motherboard] (link to MD page)
 4. [Chipset] (link to MD page)
 5. [CPU] (link to MD page)
-6. [BIOS] (BIOS.md)
+6. [AUTOTITLE] (BIOS.md)
 7. [PCIE] (link to MD page)
 8. [Video Card] (link to MD page)
 9. [Sound Card] (link to MD page)
