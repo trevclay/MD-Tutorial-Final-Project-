@@ -7,7 +7,7 @@
 
 ## Table of Contents
 1. [Data Storage/Sata](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/21186b5e1db0551b802d3522ac362706aca427f4/Data%20Storage%20%26%20SATA.md)
-2. [RAM] (link to MD page)
+2. [RAM](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/b1bf78bfb30e3e99373fead558b0c3cf69831fe3/RAM.md)
 3. [Motherboard] (link to MD page)
 4. [Chipset] (link to MD page)
 5. [CPU](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/d1255be7e0923e1f6a51a3f732cbd13e53f3d857/CPU.md)
