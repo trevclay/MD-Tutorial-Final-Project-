@@ -6,7 +6,7 @@
 <img width="240" alt="Screenshot 2024-11-26 at 5 53 57 PM" src="https://github.com/user-attachments/assets/92add861-9edc-4c3c-be8c-9550da77980c">
 
 ## Table of Contents
-1. [Data Storage/Sata] (link to MD page)
+1. [Data Storage/Sata](https://github.com/trevclay/MD-Tutorial-Final-Project-/blob/21186b5e1db0551b802d3522ac362706aca427f4/Data%20Storage%20%26%20SATA.md)
 2. [RAM] (link to MD page)
 3. [Motherboard] (link to MD page)
 4. [Chipset] (link to MD page)
